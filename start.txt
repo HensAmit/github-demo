@@ -5,3 +5,5 @@ line added from mybranch
 making changes from realwork branch
 adding this from master
 this one is also from master
+
+Added line from 'feature' branch
