@@ -7,3 +7,5 @@ adding this from master
 this one is also from master
 
 Added line from 'feature' branch
+
+added from master before rebase conflict
