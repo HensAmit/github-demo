@@ -10,4 +10,4 @@ Added line from 'feature' branch
 
 added from master before rebase conflict
 This is from bigtrouble branch
-this was added from master on the same line as bigtrouble
+this was added from master on the same line as bigtrouble **added this from remote**
