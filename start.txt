@@ -14,3 +14,5 @@ this was added from master on the same line as bigtrouble
 this was added from master on the same line as bigtrouble
 
 hi,this was added from master on the same line as bigtrouble **added this from remote**
+
+Added from 'example' branch in local
